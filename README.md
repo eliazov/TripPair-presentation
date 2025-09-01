@@ -1,5 +1,5 @@
 # TripPair-presentation
-ripPair is a mobile application designed to connect travelers and make group travel more accessible, personal, and fun. The app was born out of a desire to solve common problems like social isolation, the difficulty of finding travel companions, and the limitations of expensive, pre-packaged group tours.
+TripPair is a mobile application designed to connect travelers and make group travel more accessible, personal, and fun. The app was born out of a desire to solve common problems like social isolation, the difficulty of finding travel companions, and the limitations of expensive, pre-packaged group tours.
 
 Instead of joining a rigid, pre-planned trip, TripPair empowers users to create their own custom journeys and find like-minded people to share the adventure with. It’s an alternative to traditional tour operators that puts the user’s freedom first.
 ### 📰 News
