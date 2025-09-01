@@ -2,13 +2,13 @@
 ripPair is a mobile application designed to connect travelers and make group travel more accessible, personal, and fun. The app was born out of a desire to solve common problems like social isolation, the difficulty of finding travel companions, and the limitations of expensive, pre-packaged group tours.
 
 Instead of joining a rigid, pre-planned trip, TripPair empowers users to create their own custom journeys and find like-minded people to share the adventure with. It’s an alternative to traditional tour operators that puts the user’s freedom first.
-### News
+### 📰 News
 TripPair is still under development, with new features being added to make the app complete and engaging.
 The goal is to release it once all functionalities are ready and fully tested.
 This approach ensures that users will enjoy the best possible experience while staying safe.
 
 ---
-### Key Features
+### 🔑 Key Features
 
 * **Find Travel Companions:** Users can request to join any existing trip and, for trips they've created, they can view and select their own companions.
 * **Seamless Communication:** After a request is received, users can contact each other directly to get to know one another and organize trip details.
@@ -17,7 +17,7 @@ This approach ensures that users will enjoy the best possible experience while s
 
 ---
 
-### Technologies Used
+### 💻 Technologies Used
 
 The app is built using a modern technology stack to ensure a responsive and efficient user experience.
 
@@ -36,3 +36,12 @@ The app is built using a modern technology stack to ensure a responsive and effi
 
 * **Software Architecture:**
     * **Model-View (MV):** Provides a separation in the code between the visual part and the logical part.
+
+---
+
+### ⚒️ Upcoming Features
+* Feedback and Verification: A system to give an opinion to the user you've gone with to improve the safeness and security in the community
+* Push Notifications: Get reminders about your travels and users
+* Premium Features: A list of feature like additional travel filters, increased weekly travel creation or partecipation limit. 
+* Cross-platform: Realease a version of the app for iOS device
+* Internal Chat Communication: An internal tool to communicate with other users.
