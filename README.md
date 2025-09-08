@@ -18,7 +18,11 @@ This approach ensures that users will enjoy the best possible experience while s
 ---
 
 ### 📹 Demo
-![screenshot](./media/S)
+<img src="https://github.com/eliazov/TripPair-presentation/blob/main/media/LoginTripPair.jpg" alt="Login" height="500" >
+<img src="https://github.com/eliazov/TripPair-presentation/blob/main/media/TripPairVideo.gif" alt="Login" height="500">
+<img src="https://github.com/eliazov/TripPair-presentation/blob/main/media/Screenshot2025-09-08184247.png" alt="Login" height="500">
+<img src="https://github.com/eliazov/TripPair-presentation/blob/main/media/Screenshot2025-09-08184256.png" alt="Login" height="500">
+
 
 ---
 ### 💻 Technologies Used
