@@ -17,6 +17,10 @@ This approach ensures that users will enjoy the best possible experience while s
 
 ---
 
+### 📹 Demo
+![screenshot](./media/S)
+
+---
 ### 💻 Technologies Used
 
 The app is built using a modern technology stack to ensure a responsive and efficient user experience.
